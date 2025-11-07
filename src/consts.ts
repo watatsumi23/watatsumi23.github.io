@@ -23,10 +23,6 @@ export const SocialLinks = [
 		name: 'X / Twitter',
 		url: 'https://twitter.com/',
 	},
-	{
-		name: 'Instagram',
-		url: 'https://instagram.com/',
-	},
 ]
 
 export const WebsiteLinks = [
