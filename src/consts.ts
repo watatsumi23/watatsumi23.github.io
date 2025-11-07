@@ -36,10 +36,10 @@ export const WebsiteLinks = [
 	},
 	{
 		name: 'Blog',
-		url: 'watatsumi23.github.io/blog',
+		url: 'watatsumi23.github.io/blog/index.astro',
 	},
 	{
 		name: 'About',
-		url: 'watatsumi23.github.io/about.astro',
+		url: 'watatsumi23.github.io/index.astro',
 	},
 ]
