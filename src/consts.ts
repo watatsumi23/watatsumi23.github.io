@@ -32,14 +32,14 @@ export const SocialLinks = [
 export const WebsiteLinks = [
 	{
 		name: 'Home',
-		url: 'https://watatsumi23.github.io/',
+		url: '/',
 	},
 	{
 		name: 'Blog',
-		url: 'https://watatsumi23.github.io/blog/',
+		url: 'blog/',
 	},
 	{
 		name: 'About',
-		url: 'https://watatsumi23.github.io/about/',
+		url: 'about/',
 	},
 ]
