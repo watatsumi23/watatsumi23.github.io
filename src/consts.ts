@@ -17,7 +17,7 @@ export const SocialLinks = [
 	},
 	{
 		name: 'LinkedIn',
-		url: 'www.linkedin.com/in/felipe-de-jesus-perez-lopez-b9a043264',
+		url: 'https://www.linkedin.com/in/felipe-de-jesus-perez-lopez-b9a043264',
 	},
 	{
 		name: 'X / Twitter',
