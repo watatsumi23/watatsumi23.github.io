@@ -36,10 +36,10 @@ export const WebsiteLinks = [
 	},
 	{
 		name: 'Blog',
-		url: 'src/pages/blog/index.astro',
+		url: 'blog',
 	},
 	{
 		name: 'About',
-		url: 'src/pages/about.astro',
+		url: 'about',
 	},
 ]
