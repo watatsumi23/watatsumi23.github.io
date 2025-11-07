@@ -12,7 +12,7 @@ import { remarkModifiedTime } from './src/plugins/remark-modified-time.mjs'
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://watatsumi23.github.io',
-	base: '/saral-theme-astro',
+	base: '/watatsumi23.github.io',
 	integrations: [
 		mdx(),
 		sitemap(),
